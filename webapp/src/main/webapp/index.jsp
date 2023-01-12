@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning. I really Appreciate! yehh docker completed.  
+   <h1> Thankyou, Happy Learning. I really Appreciate! yehh ansible completed.  
    You are good going Rahul</h1>
 
   
